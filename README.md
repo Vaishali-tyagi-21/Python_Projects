@@ -44,7 +44,8 @@ User can perform operations like
 6. Cancel
 7. Clear all
 
-[front](https://github.com/Vaishali-tyagi-21/Python_Projects/assets/109030244/62e6491d-b733-44a3-b178-85c6e29281c2)
+![front](https://github.com/Vaishali-tyagi-21/Python_Projects/assets/109030244/855b46b9-a852-4e6e-80b5-7ff0623d96ae)
+
 
 
 
